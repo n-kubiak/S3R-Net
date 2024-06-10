@@ -1,7 +1,14 @@
-# "S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal" (NTIRE workshop @ CVPR 2024) - Kubiak _et al._
-Project repo for "S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal"
+# "S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal" (NTIRE @ CVPR 2024) - Kubiak _et al._
+Project repo for ["S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal"](https://arxiv.org/pdf/2404.12103)
 
-Code and pre-trained models will be published in June 2024, before CVPR 2024.
+## The basics
+coming soon
+
+## Testing
+coming soon
+
+## Training
+coming soon
 
 ## Citation
 If you use or write about S3R-Net, please use the below citation:
