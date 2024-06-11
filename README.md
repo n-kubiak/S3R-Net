@@ -1,11 +1,12 @@
 # S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal (NTIRE @ CVPR 2024) - Kubiak _et al._
-Project repo for the paper ["S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal"](https://arxiv.org/pdf/2404.12103)
+Project repo for the paper [S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal](https://arxiv.org/pdf/2404.12103)
 
 ## The basics
-coming soon
+The model was developed in an env based on Pytorch 1.8.1 with CUDA 11.1 (docker image: nvidia/cuda:11.1.1-cudnn8-runtime-ubuntu18.04). Key dependancies: ```kornia```
+
 
 ## Testing
-coming soon
+First, download the checkpoints ([ISTD](https://personalpages.surrey.ac.uk/s.hadfield/istd_ckpt.pth) | [AISTD](https://personalpages.surrey.ac.uk/s.hadfield/aistd_cktp.pth)) and put them in the relevant folders: ```checkpoints/best_(a)istd```. To run the test, run
 
 ## Training
 coming soon
